@@ -1,0 +1,23 @@
+html {
+	width: 100%;
+	min-height: 100%;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+body {
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 4%;
+}
+
+canvas{
+	float: left;
+}
+
+.text{
+	float: left;
+	position: relative;
+	padding-left: 10%;
+}
